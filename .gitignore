@@ -33,3 +33,9 @@
 
 # vscode
 .vscode
+
+# intellij
+.idea
+
+# MaxOS
+.DS_Store
